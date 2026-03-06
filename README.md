@@ -1,6 +1,6 @@
 # Sales Data Analysis using Python
 
-This project analyzes retail sales data using Python to identify trends and insights.
+This project analyzes a retail sales dataset to identify business insights.
 
 ## Tools Used
 - Python
@@ -8,15 +8,13 @@ This project analyzes retail sales data using Python to identify trends and insi
 - Matplotlib
 - Seaborn
 
-## Project Steps
-1. Data loading
-2. Data cleaning
-3. Data analysis
-4. Data visualization
+## Analysis Performed
+- Total sales by category
+- Sales distribution by region
+- Top 10 products by sales
 
-## Insights
-- Identified top selling product categories
-- Analyzed monthly sales trends
-
-## Dataset
-Superstore Sales Dataset
+## Visualizations
+The project includes charts showing:
+- Category sales comparison
+- Regional sales distribution
+- Top performing products
